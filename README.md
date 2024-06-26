@@ -4,9 +4,12 @@ Welcome to the CUHK Summer Research Group's weekly status repository. This repos
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Weekly Status Reports](#weekly-status-reports)
+- [Weekly Status for the CUHK Summer Research Group](#weekly-status-for-the-cuhk-summer-research-group)
+  - [Table of Contents](#table-of-contents)
+  - [Project Overview](#project-overview)
+  - [How to Use This Repository](#how-to-use-this-repository)
+    - [Structure](#structure)
+    - [Weekly Status Reports](#weekly-status-reports)
 
 ## Project Overview
 
@@ -44,11 +47,7 @@ Brief overview of the week's activities.
 - Task 1 description
 - Task 2 description
 
-#### Ongoing Tasks
-- Task 1 description
-- Task 2 description
-
-#### Upcoming Tasks
+#### Ongoing/Upcoming Tasks
 - Task 1 description
 - Task 2 description
 
