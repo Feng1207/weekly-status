@@ -21,8 +21,8 @@ This repository contains weekly status reports that document the progress of the
 
 ### Structure
 
-- **`reports/`**: Directory containing weekly status reports.
 - **`contacts/`**: Directory storing the contacts for the team members.
+- **`reports/`**: Directory containing weekly status reports.
 
 ### Weekly Status Reports
 
