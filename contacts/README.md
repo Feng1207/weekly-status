@@ -22,6 +22,12 @@ This document contains the contact information for members of the CUHK Summer Re
 - **Phone**: +1 (416)-550-8168
 - **Location**: Toronto, Canada
 
+#### Hon Kwan Shun Quinson
+
+- **GitHub ID**: [hksquinson](https://github.com/hksquinson)
+- **Email**: hksquinson@gmail.com
+- **Location**: Hong Kong SAR, China
+
 ## Additional Information
 
 This contact list will be updated regularly to ensure all team members have the most up-to-date information. Please notify the project lead or repository maintainer if any information needs to be updated.
