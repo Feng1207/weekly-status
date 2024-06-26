@@ -11,7 +11,7 @@ This document contains the contact information for members of the CUHK Summer Re
 - **GitHub ID**: [lczong](https://github.com/lczong)
 - **Email**: lczong@link.cuhk.edu.hk
 - **Phone**: 
-- **Location**: Hongkong, China
+- **Location**: Hong Kong, China
 
 ### Members
 
