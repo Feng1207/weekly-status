@@ -10,7 +10,6 @@ This document contains the contact information for members of the CUHK Summer Re
 
 - **GitHub ID**: [lczong](https://github.com/lczong)
 - **Email**: lczong@link.cuhk.edu.hk
-- **Phone**: 
 - **Location**: Hong Kong, China
 
 ### Members
@@ -19,7 +18,6 @@ This document contains the contact information for members of the CUHK Summer Re
 
 - **GitHub ID**: [TEJMaster](https://github.com/TEJMaster)
 - **Email**: xiangyu.tu@mail.utoronto.ca
-- **Phone**: +1 (416)-550-8168
 - **Location**: Toronto, Canada
 
 #### Hon Kwan Shun Quinson
