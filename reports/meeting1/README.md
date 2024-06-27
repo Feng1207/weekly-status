@@ -39,3 +39,24 @@ Conducted research on data collection methods for the Nutrition LLM Project, foc
 - Web scraping may infringe on usage policies for some platforms, potentially making the data unsuitable for publication
 - Authentication challenges for custom scraping scripts
 - Need to balance data quality, quantity, and ethical/legal considerations in data collection
+
+
+### Zhihan Hu
+
+#### Summary
+Searched for data collection methods for our healthcare LLM Project, mainly focusing on social media platforms (X, Zhihu, and Xiaohongshu) and reading relevant project papers.
+
+#### Completed Tasks
+- Conducted literature review for three relevant projects
+- Searched for data collection methods for X, Zhihu, and Xiaohongshu
+- Found some web scrapers for data collection from social media platforms
+- Analyzed usage policies of each social media platform
+
+#### Ongoing/Upcoming Tasks
+- Test useful and convenient web scrapers for functionality
+- Look for the official API of Xiaohongshu
+
+#### Blockers/Challenges
+- API access for Xiaohongshu may not be used for getting posts
+- Web scraping may violate usage policies for some platforms and is not suitable for publishing
+- Need to look for high-quality data and need to get a good amount of posts
