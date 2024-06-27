@@ -33,6 +33,14 @@ This document contains the contact information for members of the CUHK Summer Re
 - **Location**: Los Angeles, USA
 ## Additional Information
 
+#### Ziqin Wei
+
+- **GitHub ID**: [Feng1207](https://github.com/Feng1207)
+- **Email**: 1155173761@link.cuhk.edu.hk
+- **Location**: Shanxi, China
+  
+## Additional Information
+
 This contact list will be updated regularly to ensure all team members have the most up-to-date information. Please notify the project lead or repository maintainer if any information needs to be updated.
 
 ## Usage
